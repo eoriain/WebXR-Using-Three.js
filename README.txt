@@ -1,11 +1,8 @@
-Name: Eoghan Ó Riain
-Student Number: 111319036
-Module: CS6105 - Future and Emerging Interaction Technologies
-Assignment: WebXR using Three.js
+WebXR using Three.js
 
 Project Setup:
 
-I started this project by first setting up the project folder (Titled "ORiain_Eoghan_111319036_CS6105"). Within this folder I created two subfolders, Assets and Libs. The Assets folders contains the models, textures and HDRI that will be applied to the scene. The Libs folder contains the relevant libraries for reference with the Javascript code to call their functions. With these folders created, next a .js and a .html file was added to the project folder. Both with the title Assignment_2. The html file sets up the webpage on which the content will be displayed. Within this file, the javascript file is called to apply its content to the webpage. The html file also hosts the fragment and vertex shader code (refer to "Shaders" section below) as well as the source for the video content to be applied to the scene.
+Within the project folder I created two subfolders, Assets and Libs. The Assets folders contains the models, textures and HDRI that will be applied to the scene. The Libs folder contains the relevant libraries for reference with the Javascript code to call their functions. With these folders created, next a .js and a .html file was added to the project folder. Both with the title Assignment_2. The html file sets up the webpage on which the content will be displayed. Within this file, the javascript file is called to apply its content to the webpage. The html file also hosts the fragment and vertex shader code (refer to "Shaders" section below) as well as the source for the video content to be applied to the scene.
 
 Import the Libraries:
 
